@@ -1,0 +1,20 @@
+baseURL: "/"
+languageCode: "en-us"
+title: "Mon blog automatique"
+theme: "PaperMod"
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  comments: false
+  hidemeta: false
+
+menu:
+  main:
+    - name: Articles
+      url: /posts/
+      weight: 1
