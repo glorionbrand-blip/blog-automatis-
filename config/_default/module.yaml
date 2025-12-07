@@ -1,2 +1,4 @@
 imports:
-  - path: github.com/adityatelange/hugo-PaperMod/v7
+  - path: github.com/adityatelange/hugo-PaperMod
+    disable: false
+    mounts: []
